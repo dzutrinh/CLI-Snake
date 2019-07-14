@@ -9,3 +9,6 @@
 
 ## Run
 >snake
+
+## Screenshot
+![Screenshot](https://github.com/dzutrinh/CLI-snake/blob/master/snake.png)
